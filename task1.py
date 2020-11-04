@@ -6,7 +6,7 @@ def mult(*args):
     for number in args:
         val *= number
     return val
-print(mult(1,2,3,4,5))
+print(mult(1,2,3,4,5,6,7,8,9))
 
 # 2) division function
 # This will return the value of n1 divided by n2
